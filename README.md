@@ -1,8 +1,8 @@
 # juniper.device Ansible Playbooks
 
 [**About juniper-device-ansible-modules-examples**](README.md#about-juniper-device-ansible-modules-examples)  
-[**Juniper hardware and the example playbooks**](READ.ME#juniper-hardware-and-the-example-playbooks)  
-[**Getting Started with Ansible and Junos**](READ.ME#getting-started-with-ansible-and-junos) 
+[**Juniper hardware and the example playbooks**](README.md#juniper-hardware-and-the-example-playbooks)  
+[**Getting started with Ansible and Junos**](README.md#getting-started-with-ansible-and-junos) 
 
 # About juniper-device-ansible-playbooks
 
@@ -19,17 +19,17 @@ If you are looking for the older examples using Ansible Core, please check out t
 
  This repository is to be used with devices running Junos OS or Junos Evolved.  Example of hardware platforms include, but are not limited to, the MX, PTX, ACX, QFX, EX, and SRX. Example playbooks will be using the juniper.device modules listed below:
 
-command — Execute one or more CLI commands on a Junos device.
-config — Manipulate the configuration of a Junos device.
-facts — Retrieve facts from a Junos device.
-jsnapy — Execute JSNAPy tests on a Junos device.
-ping — Execute ping from a Junos device.
-pmtud — Perform path MTU discovery from a Junos device to a destination.
-rpc — Execute one or more NETCONF RPCs on a Junos device.
-software — Install software on a Junos device.
-srx_cluster — Add or remove SRX chassis cluster configuration.
-system — Initiate operational actions on the Junos system.
-table — Retrieve data from a Junos device using a PyEZ table/view.
+- command — Execute one or more CLI commands on a Junos device.
+- config — Manipulate the configuration of a Junos device.
+- facts — Retrieve facts from a Junos device.
+- jsnapy — Execute JSNAPy tests on a Junos device.
+- ping — Execute ping from a Junos device.
+- pmtud — Perform path MTU discovery from a Junos device to a destination.
+- rpc — Execute one or more NETCONF RPCs on a Junos device.
+- software — Install software on a Junos device.
+- srx_cluster — Add or remove SRX chassis cluster configuration.
+- system — Initiate operational actions on the Junos system.
+- table — Retrieve data from a Junos device using a PyEZ table/view.
 
 # Getting started with Ansible and Junos
 
