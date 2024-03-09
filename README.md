@@ -1,10 +1,12 @@
 # juniper.device Ansible Modules Examples
 
 [**About juniper-device-ansible-modules-examples**](README.md#about-juniper-device-ansible-modules-examples)  
+[**Juniper hardware and the example playbooks**]()  
+[**Getting Started with Ansible and Junos**]()  
 
 # About juniper-device-ansible-modules-examples
 
-This project contains Ansible playbooks that may be used to interact with devices running Junos OS and Junos Evolved. This repository uses Ansible Base and Juniper's Ansible Collection for Junos (juniper.device). 
+This project contains Ansible playbooks that may be used to interact with devices running Junos OS and Junos Evolved. This repository uses Ansible Base and Juniper's Ansible Collection for Junos ([juniper.device](https://galaxy.ansible.com/ui/repo/published/juniper/device/)). 
 
 The modules labeled 1XX are considered building block modules that have been provided by Juniper contributors. All other modules are provided by the extended Juniper Automation Community. 
 
@@ -12,7 +14,21 @@ If you are looking for the older examples using Ansible Core, please check out t
  - [juniper_junos_ansible_modules_examples](https://github.com/JNPRAutomate/juniper_junos_ansible_modules_examples)
  - [junos-automation-with-ansible](https://github.com/JNPRAutomate/junos-automation-with-ansible)
  - [ansible-junos-examples](https://github.com/JNPRAutomate/ansible-junos-examples)
+ 
+# Juniper hardware and the example playbooks
 
- # Getting Started with Ansible and Juniper Devices
+ This repository is to be used with devices running Junos OS or Junos Evolved.  Example of hardware platforms include, but are not limited to, the MX, PTX, ACX, QFX, EX, and SRX. Example playbooks will be using the juniper.device modules listed below:
 
- This repository is to be used with devices running Junos OS or Junos Evolved.  Examples include, but are not limited to,  the MX, PTX, ACX, QFX, EX, and the SRX. 
+command — Execute one or more CLI commands on a Junos device.
+config — Manipulate the configuration of a Junos device.
+facts — Retrieve facts from a Junos device.
+jsnapy — Execute JSNAPy tests on a Junos device.
+ping — Execute ping from a Junos device.
+pmtud — Perform path MTU discovery from a Junos device to a destination.
+rpc — Execute one or more NETCONF RPCs on a Junos device.
+software — Install software on a Junos device.
+srx_cluster — Add or remove SRX chassis cluster configuration.
+system — Initiate operational actions on the Junos system.
+table — Retrieve data from a Junos device using a PyEZ table/view.
+
+# Getting Started with Ansible and Junos
