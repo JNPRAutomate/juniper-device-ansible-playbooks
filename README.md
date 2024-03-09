@@ -1,10 +1,10 @@
-# juniper.device Ansible Modules Examples
+# juniper.device Ansible Playbooks
 
 [**About juniper-device-ansible-modules-examples**](README.md#about-juniper-device-ansible-modules-examples)  
-[**Juniper hardware and the example playbooks**]()  
-[**Getting Started with Ansible and Junos**]()  
+[**Juniper hardware and the example playbooks**](READ.ME#juniper-hardware-and-the-example-playbooks)  
+[**Getting Started with Ansible and Junos**](READ.ME#getting-started-with-ansible-and-junos) 
 
-# About juniper-device-ansible-modules-examples
+# About juniper-device-ansible-playbooks
 
 This project contains Ansible playbooks that may be used to interact with devices running Junos OS and Junos Evolved. This repository uses Ansible Base and Juniper's Ansible Collection for Junos ([juniper.device](https://galaxy.ansible.com/ui/repo/published/juniper/device/)). 
 
@@ -31,4 +31,6 @@ srx_cluster — Add or remove SRX chassis cluster configuration.
 system — Initiate operational actions on the Junos system.
 table — Retrieve data from a Junos device using a PyEZ table/view.
 
-# Getting Started with Ansible and Junos
+# Getting started with Ansible and Junos
+
+Start at the ([Ansible for Junos documentation page](https://www.juniper.net/documentation/product/us/en/ansible-for-junos-os/)) to evaluate, install or use Ansible for Junos to easily manage and configure devices running Junos in your network. One will find the Release Notes, Get Started, Developer Guides, Day One Books, Support Resources, and Configuration Examples and Guides. 
