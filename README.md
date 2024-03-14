@@ -21,14 +21,16 @@ If you are looking for the older examples using Ansible Core, please check out t
 
 - command — Execute one or more CLI commands on a Junos device.
 - config — Manipulate the configuration of a Junos device.
+  - Edit, load, commit, save, rollback, or retrive the config
 - facts — Retrieve facts from a Junos device.
 - jsnapy — Execute JSNAPy tests on a Junos device.
 - ping — Execute ping from a Junos device.
 - pmtud — Perform path MTU discovery from a Junos device to a destination.
 - rpc — Execute one or more NETCONF RPCs on a Junos device.
 - software — Install software on a Junos device.
-- srx_cluster — Add or remove SRX chassis cluster configuration.
+- srx_cluster — Enable or disable an SRX chassis cluster configuration.
 - system — Initiate operational actions on the Junos system.
+  - Actions include reboot, shutdown, halt, and zeroize
 - table — Retrieve data from a Junos device using a PyEZ table/view.
 
 # Getting started with Ansible and Junos
