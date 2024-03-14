@@ -1,4 +1,4 @@
-# juniper.device Ansible Playbooks
+# Ansible Playbooks using juniper.device 
 
 [**About juniper-device-ansible-modules-examples**](README.md#about-juniper-device-ansible-modules-examples)  
 [**Juniper hardware and the example playbooks**](README.md#juniper-hardware-and-the-example-playbooks)  
