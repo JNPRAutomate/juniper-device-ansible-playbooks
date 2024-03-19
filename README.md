@@ -8,7 +8,7 @@
 
 This project contains Ansible playbooks that may be used to interact with devices running Junos OS and Junos Evolved. This repository uses Ansible Base and Juniper's Ansible Collection for Junos ([juniper.device](https://galaxy.ansible.com/ui/repo/published/juniper/device/)). 
 
-The modules labeled with a . (dot) or \[0-9\]\[0-9\] (double digit numbers) are considered building block modules that have been provided by Juniper contributors. All other modules are provided by the extended Juniper Automation Community. 
+The modules labeled with \[0-9\]\[0-9\] (double digit numbers) are considered building block modules that have been provided by Juniper contributors. All other modules are provided by the extended Juniper Automation Community. 
 
 If you are looking for the older examples using Ansible Core, please check out these repositories:
  - [juniper_junos_ansible_modules_examples](https://github.com/JNPRAutomate/juniper_junos_ansible_modules_examples)
