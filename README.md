@@ -11,6 +11,7 @@ This project contains Ansible playbooks that may be used to interact with device
 The modules labeled with \[0-9\]\[0-9\] (double digit numbers) are considered building block modules that have been provided by Juniper contributors. All other modules are provided by the extended Juniper Automation Community. 
 
 If you are looking for the older examples using Ansible Core, please check out these repositories:
+ - [Introduction to Using Ansible with JUNOS](https://github.com/Juniper/Intro-to-Using-Ansible-with-Junos-OS)
  - [juniper_junos_ansible_modules_examples](https://github.com/JNPRAutomate/juniper_junos_ansible_modules_examples)
  - [junos-automation-with-ansible](https://github.com/JNPRAutomate/junos-automation-with-ansible)
  - [ansible-junos-examples](https://github.com/JNPRAutomate/ansible-junos-examples)
