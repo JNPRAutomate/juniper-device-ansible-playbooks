@@ -36,4 +36,4 @@ If you are looking for the older examples using Ansible Core, please check out t
 
 # Getting started with Ansible and Junos
 
-Start at the [Ansible for Junos documentation page](https://www.juniper.net/documentation/product/us/en/ansible-for-junos-os/) to evaluate, install or use Ansible for Junos to easily manage and configure devices running Junos in your network. One will find the Release Notes, Get Started, Developer Guides, Day One Books, Support Resources, and Configuration Examples and Guides. 
+Start at the [JNPRAutomate Ansible Wiki Page](https://github.com/JNPRAutomate/JNPRAutomate.github.io/wiki/Ansible) or the [Ansible for Junos documentation page](https://www.juniper.net/documentation/product/us/en/ansible-for-junos-os/) to evaluate, install or use Ansible for Junos to easily manage and configure devices running Junos in your network. The wiki page has some high level information, similar to a one-pager.  And the Docuemntation Pages include Release Notes, Get Started, Developer Guides, Day One Books, Support Resources, and Configuration Examples and Guides.
